@@ -6,23 +6,23 @@
   "closeExistingTabs": true,
   "websites": [    
     {
-      "url": "https://app.powerbi.com/groups/me/reports/115e8381-dbb4-4a0b-a472-39b613b6226d/ReportSection?ctid=049f1d45-bc1e-473d-baf9-7630814546b0&experience=power-bi&chromeless=true",
+      "url": "https://app.powerbi.com/groups/me/reports/115e8381-dbb4-4a0b-a472-39b613b6226d/ReportSection?ctid=049f1d45-bc1e-473d-baf9-7630814546b0&experience=power-bi&bookmarkGuid=1e849823-6df0-4041-8e8e-4e18ec782d54&chromeless=true",
       "duration": 15,
       "tabReloadIntervalSeconds": 10000
     },
     {
-      "url": "https://app.powerbi.com/groups/me/reports/115e8381-dbb4-4a0b-a472-39b613b6226d/ReportSection1378c92b85615ec3c9cd?ctid=049f1d45-bc1e-473d-baf9-7630814546b0&experience=power-bi&chromeless=true",
+      "url": "https://app.powerbi.com/groups/me/reports/115e8381-dbb4-4a0b-a472-39b613b6226d/ReportSection1378c92b85615ec3c9cd?ctid=049f1d45-bc1e-473d-baf9-7630814546b0&experience=power-bi&bookmarkGuid=7a115c18-bb9c-4767-9f8f-8261fe49168d&chromeless=true",
       "duration": 15,
       "tabReloadIntervalSeconds": 10000
     },
     {
-      "url": "https://app.powerbi.com/groups/me/reports/115e8381-dbb4-4a0b-a472-39b613b6226d/ReportSectionf59faee03268b5a3be5d?ctid=049f1d45-bc1e-473d-baf9-7630814546b0&experience=power-bi&chromeless=true",
+      "url": "https://app.powerbi.com/groups/me/reports/115e8381-dbb4-4a0b-a472-39b613b6226d/ReportSectionf59faee03268b5a3be5d?ctid=049f1d45-bc1e-473d-baf9-7630814546b0&experience=power-bi&bookmarkGuid=e3fc846f-6221-4571-9f3b-91244d986c59&chromeless=true",
       "duration": 15,
       "tabReloadIntervalSeconds": 10000
       
     },
     {
-      "url": "https://app.powerbi.com/groups/me/reports/115e8381-dbb4-4a0b-a472-39b613b6226d/ReportSectionae56253a4bc8bf3258ad?ctid=049f1d45-bc1e-473d-baf9-7630814546b0&experience=power-bi&chromeless=true",
+      "url": "https://app.powerbi.com/groups/me/reports/115e8381-dbb4-4a0b-a472-39b613b6226d/ReportSectionae56253a4bc8bf3258ad?ctid=049f1d45-bc1e-473d-baf9-7630814546b0&experience=power-bi&bookmarkGuid=fb27eb2e-8f3e-4a8f-998e-d0ae0bc83f59&chromeless=true",
       "duration": 15,
       "tabReloadIntervalSeconds": 10000
     }
